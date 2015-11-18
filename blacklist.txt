@@ -13,7 +13,7 @@ combined.rbl.msrbl.net
 db.wpbl.info
 dnsbl-1.uceprotect.net
 dnsbl-2.uceprotect.net
-//dnsbl-3.uceprotect.net
+#dnsbl-3.uceprotect.net
 dnsbl.cyberlogic.net
 dnsbl.inps.de
 dnsbl.njabl.org
